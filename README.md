@@ -1,1 +1,1 @@
-# churnig
+# churning
